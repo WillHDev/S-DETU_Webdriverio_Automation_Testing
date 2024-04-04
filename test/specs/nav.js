@@ -1,6 +1,6 @@
 describe('Nav', () => {
 
-    //  1. Get text of menu items and assert them
+    //  1. Get text of all menu items and assert them
     it('Get text of all menu items and assert them', async () => {
         await browser.url('/');
 
